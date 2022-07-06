@@ -1,4 +1,4 @@
-[{
+{
         "type": "Feature",
         "geometry": {
             "type": "GeometryCollection",
@@ -26148,4 +26148,3 @@
             "visibility": "0"
         }
     }
-]
