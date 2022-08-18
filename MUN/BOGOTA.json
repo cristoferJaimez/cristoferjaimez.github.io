@@ -3860,7 +3860,7 @@
                 "normal": "#s_ylw-pushpin003",
                 "highlight": "#s_ylw-pushpin_hl00011"
             },
-            "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n    <tr><td>NOMBRE_MUN</td><td>20 DE JULIO</td></tr>\n    <tr><td>UTC</td><td>11001040002</td></tr>\n    <tr><td>DEPARTAMENTO</td><td>BOGOTA</td></tr>\n    <tr><td>COD_MUNI</td><td>11001</td></tr>",
+            "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n    <tr><td>NOMBRE_MUN</td><td>BOGOTÁ D.C.</td></tr>\n    <tr><td>UTC</td><td>11001000000</td></tr>\n    <tr><td>DEPARTAMENTO</td><td>BOGOTA</td></tr>\n    <tr><td>COD_MUNI</td><td>11001</td></tr>",
             "stroke": "#cfcfcf",
             "stroke-opacity": 0.8705882352941177,
             "stroke-width": 1.4,
