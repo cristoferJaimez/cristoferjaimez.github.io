@@ -1,3 +1,4 @@
 *.geojson filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 medellin.json filter=lfs diff=lfs merge=lfs -text
+medellin[[:space:]]x2 filter=lfs diff=lfs merge=lfs -text
